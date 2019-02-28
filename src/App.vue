@@ -7,7 +7,6 @@
 </template>
 
 <script>
-//import "../static/vendor/hamburgers/_sass/hamburgers/hamburgers.scss";
 export default {
   data: () => ({
     drawer: false
