@@ -18,5 +18,4 @@ npm run dev
 
 * List by categories Character, Location, Episode (Only Character works for now).
 * Adjustments in color palletes
-
-
+* Open details from character when click
